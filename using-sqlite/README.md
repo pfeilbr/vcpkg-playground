@@ -4,7 +4,7 @@
 
 ## Requirements
 
-* cmake
+* cmake >= 3.0
 * [vcpkg](https://github.com/Microsoft/vcpkg) installed
 
 ## Build and Run
